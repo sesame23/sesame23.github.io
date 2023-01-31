@@ -1104,6 +1104,33 @@ a {
 .cid-sRI59hoZYj .mbr-section-subtitle {
   text-align: center;
 }
+.cid-tuvkDN3VdH {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tuvkDN3VdH .counter-container ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 2.5rem;
+}
+.cid-tuvkDN3VdH .counter-container ul li {
+  margin-bottom: 1rem;
+  position: relative;
+}
+.cid-tuvkDN3VdH .counter-container ul li:before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+  line-height: 1.2;
+}
+.cid-tuvkDN3VdH .mbr-section-title {
+  text-align: center;
+}
 .cid-sRKFvy7ynY {
   padding-top: 3rem;
   padding-bottom: 3rem;
